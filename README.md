@@ -1,1 +1,1 @@
-# Hibernate
+# Hibernate Software projects
